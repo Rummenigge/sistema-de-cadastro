@@ -5,5 +5,5 @@
 Para rodar este projeto em sua máquina digite:
 
 ```
-npm install react native
+node app.js
 ```
